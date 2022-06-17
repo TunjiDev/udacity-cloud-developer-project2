@@ -18,4 +18,5 @@ You'll need to create a new node server. Open a new terminal within the project 
 
 ## Endpoint URL for the running elastic beanstalk deployment:
 
+// This endpoint no longer works as the EB app has been deleted
 http://udagram-eldirecto-dev-dev.us-east-1.elasticbeanstalk.com/
